@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+*.tfvars # Ignore any files ending in .tfvars
+*.tfstate # Ignore any files ending in .tfstate
+*.tfstate.backup # Ignore any files ending in .tfstate.backup
+*tfvars
+*terraform.tfstate
+*terraform.tfstate.backup
